@@ -1,0 +1,164 @@
+{
+  "frames": {
+    "Bridge1.png": {
+      "frame": { "x": 1, "y": 1, "w": 60, "h": 60 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 60, "h": 60 },
+      "sourceSize": { "w": 60, "h": 60 }
+    },
+    "Bridge2.png": {
+      "frame": { "x": 63, "y": 1, "w": 60, "h": 60 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 60, "h": 60 },
+      "sourceSize": { "w": 60, "h": 60 }
+    },
+    "Bridge3.png": {
+      "frame": { "x": 125, "y": 1, "w": 60, "h": 60 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 60, "h": 60 },
+      "sourceSize": { "w": 60, "h": 60 }
+    },
+    "Bridge4.png": {
+      "frame": { "x": 187, "y": 1, "w": 60, "h": 60 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 60, "h": 60 },
+      "sourceSize": { "w": 60, "h": 60 }
+    },
+    "CloudsTile1.png": {
+      "frame": { "x": 249, "y": 1, "w": 60, "h": 60 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 60, "h": 60 },
+      "sourceSize": { "w": 60, "h": 60 }
+    },
+    "CloudsTile2.png": {
+      "frame": { "x": 311, "y": 1, "w": 60, "h": 60 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 60, "h": 60 },
+      "sourceSize": { "w": 60, "h": 60 }
+    },
+    "CloudsTile3.png": {
+      "frame": { "x": 373, "y": 1, "w": 60, "h": 60 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 60, "h": 60 },
+      "sourceSize": { "w": 60, "h": 60 }
+    },
+    "DryTile1.png": {
+      "frame": { "x": 435, "y": 1, "w": 60, "h": 60 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 60, "h": 60 },
+      "sourceSize": { "w": 60, "h": 60 }
+    },
+    "DryTile2.png": {
+      "frame": { "x": 497, "y": 1, "w": 60, "h": 60 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 60, "h": 60 },
+      "sourceSize": { "w": 60, "h": 60 }
+    },
+    "DryTile3.png": {
+      "frame": { "x": 559, "y": 1, "w": 60, "h": 60 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 60, "h": 60 },
+      "sourceSize": { "w": 60, "h": 60 }
+    },
+    "PavedTile1.png": {
+      "frame": { "x": 621, "y": 1, "w": 60, "h": 60 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 60, "h": 60 },
+      "sourceSize": { "w": 60, "h": 60 }
+    },
+    "PavedTile2.png": {
+      "frame": { "x": 683, "y": 1, "w": 60, "h": 60 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 60, "h": 60 },
+      "sourceSize": { "w": 60, "h": 60 }
+    },
+    "PavedTile3.png": {
+      "frame": { "x": 745, "y": 1, "w": 60, "h": 60 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 60, "h": 60 },
+      "sourceSize": { "w": 60, "h": 60 }
+    },
+    "PlowedTile.png": {
+      "frame": { "x": 807, "y": 1, "w": 60, "h": 60 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 60, "h": 60 },
+      "sourceSize": { "w": 60, "h": 60 }
+    },
+    "SeededTile.png": {
+      "frame": { "x": 869, "y": 1, "w": 60, "h": 60 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 60, "h": 60 },
+      "sourceSize": { "w": 60, "h": 60 }
+    },
+    "TreeTile.png": {
+      "frame": { "x": 931, "y": 1, "w": 60, "h": 60 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 60, "h": 60 },
+      "sourceSize": { "w": 60, "h": 60 }
+    },
+    "WateredTile.png": {
+      "frame": { "x": 1179, "y": 1, "w": 60, "h": 60 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 60, "h": 60 },
+      "sourceSize": { "w": 60, "h": 60 }
+    },
+    "WaterTile0.png": {
+      "frame": { "x": 993, "y": 1, "w": 60, "h": 60 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 60, "h": 60 },
+      "sourceSize": { "w": 60, "h": 60 }
+    },
+    "WaterTile1.png": {
+      "frame": { "x": 1055, "y": 1, "w": 60, "h": 60 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 60, "h": 60 },
+      "sourceSize": { "w": 60, "h": 60 }
+    },
+    "WaterTile2.png": {
+      "frame": { "x": 1117, "y": 1, "w": 60, "h": 60 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 60, "h": 60 },
+      "sourceSize": { "w": 60, "h": 60 }
+    }
+  },
+  "animations": {
+    "bridge": ["Bridge1.png", "Bridge2.png", "Bridge3.png", "Bridge4.png"],
+    "cloud": ["CloudsTile1.png", "CloudsTile2.png", "CloudsTile3.png"],
+    "dry": ["DryTile1.png", "DryTile2.png", "DryTile3.png"],
+    "grass": ["PavedTile1.png", "PavedTile2.png", "PavedTile3.png"],
+    "water": ["WaterTile0.png", "WaterTile1.png", "WaterTile2.png"],
+	"watered": ["WateredTile.png"],
+	"plowed": ["PlowedTile.png"],
+	"seeded": ["SeededTile.png"],
+	"tree": ["TreeTile.png"]
+  },
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "version": "1.0",
+    "image": "GroundSet.png",
+    "format": "RGBA8888",
+    "size": { "w": 1240, "h": 62 },
+    "scale": "1",
+    "smartupdate": "$TexturePacker:SmartUpdate:250de6359fe1ba11368ed80382bfeb72:021b0a27bd9c94f96b31bada31a5dd4c:49613f364e517e61713a9b491442c953$"
+  }
+}

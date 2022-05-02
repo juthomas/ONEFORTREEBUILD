@@ -1,0 +1,1084 @@
+{
+	"frames": {
+		"laboureur_sheet-0.png": {
+			"frame": {
+				"x": 0,
+				"y": 0,
+				"w": 60,
+				"h": 60
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 60,
+				"h": 60
+			},
+			"sourceSize": {
+				"w": 60,
+				"h": 60
+			},
+			"anchor": {
+				"x": 0.5,
+				"y": 1
+			}
+		},
+		"laboureur_sheet-1.png": {
+			"frame": {
+				"x": 60,
+				"y": 0,
+				"w": 60,
+				"h": 60
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 60,
+				"h": 60
+			},
+			"sourceSize": {
+				"w": 60,
+				"h": 60
+			},
+			"anchor": {
+				"x": 0.5,
+				"y": 1
+			}
+		},
+		"laboureur_sheet-2.png": {
+			"frame": {
+				"x": 120,
+				"y": 0,
+				"w": 60,
+				"h": 60
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 60,
+				"h": 60
+			},
+			"sourceSize": {
+				"w": 60,
+				"h": 60
+			},
+			"anchor": {
+				"x": 0.5,
+				"y": 1
+			}
+		},
+		"laboureur_sheet-3.png": {
+			"frame": {
+				"x": 180,
+				"y": 0,
+				"w": 60,
+				"h": 60
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 60,
+				"h": 60
+			},
+			"sourceSize": {
+				"w": 60,
+				"h": 60
+			},
+			"anchor": {
+				"x": 0.5,
+				"y": 1
+			}
+		},
+		"laboureur_sheet-4.png": {
+			"frame": {
+				"x": 240,
+				"y": 0,
+				"w": 60,
+				"h": 60
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 60,
+				"h": 60
+			},
+			"sourceSize": {
+				"w": 60,
+				"h": 60
+			},
+			"anchor": {
+				"x": 0.5,
+				"y": 1
+			}
+		},
+		"laboureur_sheet-5.png": {
+			"frame": {
+				"x": 300,
+				"y": 0,
+				"w": 60,
+				"h": 60
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 60,
+				"h": 60
+			},
+			"sourceSize": {
+				"w": 60,
+				"h": 60
+			},
+			"anchor": {
+				"x": 0.5,
+				"y": 1
+			}
+		},
+		"laboureur_sheet-6.png": {
+			"frame": {
+				"x": 360,
+				"y": 0,
+				"w": 60,
+				"h": 60
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 60,
+				"h": 60
+			},
+			"sourceSize": {
+				"w": 60,
+				"h": 60
+			},
+			"anchor": {
+				"x": 0.5,
+				"y": 1
+			}
+		},
+		"laboureur_sheet-7.png": {
+			"frame": {
+				"x": 420,
+				"y": 0,
+				"w": 60,
+				"h": 60
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 60,
+				"h": 60
+			},
+			"sourceSize": {
+				"w": 60,
+				"h": 60
+			},
+			"anchor": {
+				"x": 0.5,
+				"y": 1
+			}
+		},
+		"laboureur_sheet-8.png": {
+			"frame": {
+				"x": 480,
+				"y": 0,
+				"w": 60,
+				"h": 60
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 60,
+				"h": 60
+			},
+			"sourceSize": {
+				"w": 60,
+				"h": 60
+			},
+			"anchor": {
+				"x": 0.5,
+				"y": 1
+			}
+		},
+		"laboureur_sheet-9.png": {
+			"frame": {
+				"x": 540,
+				"y": 0,
+				"w": 60,
+				"h": 60
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 60,
+				"h": 60
+			},
+			"sourceSize": {
+				"w": 60,
+				"h": 60
+			},
+			"anchor": {
+				"x": 0.5,
+				"y": 1
+			}
+		},
+		"laboureur_sheet-10.png": {
+			"frame": {
+				"x": 600,
+				"y": 0,
+				"w": 60,
+				"h": 60
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 60,
+				"h": 60
+			},
+			"sourceSize": {
+				"w": 60,
+				"h": 60
+			},
+			"anchor": {
+				"x": 0.5,
+				"y": 1
+			}
+		},
+		"laboureur_sheet-11.png": {
+			"frame": {
+				"x": 660,
+				"y": 0,
+				"w": 60,
+				"h": 60
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 60,
+				"h": 60
+			},
+			"sourceSize": {
+				"w": 60,
+				"h": 60
+			},
+			"anchor": {
+				"x": 0.5,
+				"y": 1
+			}
+		},
+		"laboureur_sheet-12.png": {
+			"frame": {
+				"x": 720,
+				"y": 0,
+				"w": 60,
+				"h": 60
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 60,
+				"h": 60
+			},
+			"sourceSize": {
+				"w": 60,
+				"h": 60
+			},
+			"anchor": {
+				"x": 0.5,
+				"y": 1
+			}
+		},
+		"laboureur_sheet-13.png": {
+			"frame": {
+				"x": 780,
+				"y": 0,
+				"w": 60,
+				"h": 60
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 60,
+				"h": 60
+			},
+			"sourceSize": {
+				"w": 60,
+				"h": 60
+			},
+			"anchor": {
+				"x": 0.5,
+				"y": 1
+			}
+		},
+		"laboureur_sheet-14.png": {
+			"frame": {
+				"x": 840,
+				"y": 0,
+				"w": 60,
+				"h": 60
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 60,
+				"h": 60
+			},
+			"sourceSize": {
+				"w": 60,
+				"h": 60
+			},
+			"anchor": {
+				"x": 0.5,
+				"y": 1
+			}
+		},
+		"laboureur_sheet-15.png": {
+			"frame": {
+				"x": 900,
+				"y": 0,
+				"w": 60,
+				"h": 60
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 60,
+				"h": 60
+			},
+			"sourceSize": {
+				"w": 60,
+				"h": 60
+			},
+			"anchor": {
+				"x": 0.5,
+				"y": 1
+			}
+		},
+		"laboureur_sheet-16.png": {
+			"frame": {
+				"x": 960,
+				"y": 0,
+				"w": 60,
+				"h": 60
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 60,
+				"h": 60
+			},
+			"sourceSize": {
+				"w": 60,
+				"h": 60
+			},
+			"anchor": {
+				"x": 0.5,
+				"y": 1
+			}
+		},
+		"laboureur_sheet-17.png": {
+			"frame": {
+				"x": 780,
+				"y": 0,
+				"w": 60,
+				"h": 60
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 60,
+				"h": 60
+			},
+			"sourceSize": {
+				"w": 60,
+				"h": 60
+			},
+			"anchor": {
+				"x": 0.5,
+				"y": 1
+			}
+		},
+		"laboureur_sheet-18.png": {
+			"frame": {
+				"x": 1020,
+				"y": 0,
+				"w": 60,
+				"h": 60
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 60,
+				"h": 60
+			},
+			"sourceSize": {
+				"w": 60,
+				"h": 60
+			},
+			"anchor": {
+				"x": 0.5,
+				"y": 1
+			}
+		},
+		"laboureur_sheet-19.png": {
+			"frame": {
+				"x": 1080,
+				"y": 0,
+				"w": 60,
+				"h": 60
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 60,
+				"h": 60
+			},
+			"sourceSize": {
+				"w": 60,
+				"h": 60
+			},
+			"anchor": {
+				"x": 0.5,
+				"y": 1
+			}
+		},
+		"laboureur_sheet-20.png": {
+			"frame": {
+				"x": 0,
+				"y": 60,
+				"w": 60,
+				"h": 60
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 60,
+				"h": 60
+			},
+			"sourceSize": {
+				"w": 60,
+				"h": 60
+			},
+			"anchor": {
+				"x": 0.5,
+				"y": 1
+			}
+		},
+		"laboureur_sheet-21.png": {
+			"frame": {
+				"x": 60,
+				"y": 60,
+				"w": 60,
+				"h": 60
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 60,
+				"h": 60
+			},
+			"sourceSize": {
+				"w": 60,
+				"h": 60
+			},
+			"anchor": {
+				"x": 0.5,
+				"y": 1
+			}
+		},
+		"laboureur_sheet-22.png": {
+			"frame": {
+				"x": 1020,
+				"y": 0,
+				"w": 60,
+				"h": 60
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 60,
+				"h": 60
+			},
+			"sourceSize": {
+				"w": 60,
+				"h": 60
+			},
+			"anchor": {
+				"x": 0.5,
+				"y": 1
+			}
+		},
+		"laboureur_sheet-23.png": {
+			"frame": {
+				"x": 120,
+				"y": 60,
+				"w": 60,
+				"h": 60
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 60,
+				"h": 60
+			},
+			"sourceSize": {
+				"w": 60,
+				"h": 60
+			},
+			"anchor": {
+				"x": 0.5,
+				"y": 1
+			}
+		},
+		"laboureur_sheet-24.png": {
+			"frame": {
+				"x": 180,
+				"y": 60,
+				"w": 60,
+				"h": 60
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 60,
+				"h": 60
+			},
+			"sourceSize": {
+				"w": 60,
+				"h": 60
+			},
+			"anchor": {
+				"x": 0.5,
+				"y": 1
+			}
+		},
+		"laboureur_sheet-25.png": {
+			"frame": {
+				"x": 240,
+				"y": 60,
+				"w": 60,
+				"h": 60
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 60,
+				"h": 60
+			},
+			"sourceSize": {
+				"w": 60,
+				"h": 60
+			},
+			"anchor": {
+				"x": 0.5,
+				"y": 1
+			}
+		},
+		"laboureur_sheet-26.png": {
+			"frame": {
+				"x": 300,
+				"y": 60,
+				"w": 60,
+				"h": 60
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 60,
+				"h": 60
+			},
+			"sourceSize": {
+				"w": 60,
+				"h": 60
+			},
+			"anchor": {
+				"x": 0.5,
+				"y": 1
+			}
+		},
+		"laboureur_sheet-27.png": {
+			"frame": {
+				"x": 300,
+				"y": 60,
+				"w": 60,
+				"h": 60
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 60,
+				"h": 60
+			},
+			"sourceSize": {
+				"w": 60,
+				"h": 60
+			},
+			"anchor": {
+				"x": 0.5,
+				"y": 1
+			}
+		},
+		"laboureur_sheet-28.png": {
+			"frame": {
+				"x": 1020,
+				"y": 0,
+				"w": 60,
+				"h": 60
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 60,
+				"h": 60
+			},
+			"sourceSize": {
+				"w": 60,
+				"h": 60
+			},
+			"anchor": {
+				"x": 0.5,
+				"y": 1
+			}
+		},
+		"laboureur_sheet-29.png": {
+			"frame": {
+				"x": 360,
+				"y": 60,
+				"w": 60,
+				"h": 60
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 60,
+				"h": 60
+			},
+			"sourceSize": {
+				"w": 60,
+				"h": 60
+			},
+			"anchor": {
+				"x": 0.5,
+				"y": 1
+			}
+		},
+		"laboureur_sheet-30.png": {
+			"frame": {
+				"x": 420,
+				"y": 60,
+				"w": 60,
+				"h": 60
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 60,
+				"h": 60
+			},
+			"sourceSize": {
+				"w": 60,
+				"h": 60
+			},
+			"anchor": {
+				"x": 0.5,
+				"y": 1
+			}
+		},
+		"laboureur_sheet-31.png": {
+			"frame": {
+				"x": 480,
+				"y": 60,
+				"w": 60,
+				"h": 60
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 60,
+				"h": 60
+			},
+			"sourceSize": {
+				"w": 60,
+				"h": 60
+			},
+			"anchor": {
+				"x": 0.5,
+				"y": 1
+			}
+		},
+		"laboureur_sheet-32.png": {
+			"frame": {
+				"x": 540,
+				"y": 60,
+				"w": 60,
+				"h": 60
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 60,
+				"h": 60
+			},
+			"sourceSize": {
+				"w": 60,
+				"h": 60
+			},
+			"anchor": {
+				"x": 0.5,
+				"y": 1
+			}
+		},
+		"laboureur_sheet-33.png": {
+			"frame": {
+				"x": 600,
+				"y": 60,
+				"w": 60,
+				"h": 60
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 60,
+				"h": 60
+			},
+			"sourceSize": {
+				"w": 60,
+				"h": 60
+			},
+			"anchor": {
+				"x": 0.5,
+				"y": 1
+			}
+		},
+		"laboureur_sheet-34.png": {
+			"frame": {
+				"x": 660,
+				"y": 60,
+				"w": 60,
+				"h": 60
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 60,
+				"h": 60
+			},
+			"sourceSize": {
+				"w": 60,
+				"h": 60
+			},
+			"anchor": {
+				"x": 0.5,
+				"y": 1
+			}
+		},
+		"laboureur_sheet-35.png": {
+			"frame": {
+				"x": 660,
+				"y": 60,
+				"w": 60,
+				"h": 60
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 60,
+				"h": 60
+			},
+			"sourceSize": {
+				"w": 60,
+				"h": 60
+			},
+			"anchor": {
+				"x": 0.5,
+				"y": 1
+			}
+		},
+		"laboureur_sheet-36.png": {
+			"frame": {
+				"x": 720,
+				"y": 60,
+				"w": 60,
+				"h": 60
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 60,
+				"h": 60
+			},
+			"sourceSize": {
+				"w": 60,
+				"h": 60
+			},
+			"anchor": {
+				"x": 0.5,
+				"y": 1
+			}
+		},
+		"laboureur_sheet-37.png": {
+			"frame": {
+				"x": 780,
+				"y": 60,
+				"w": 60,
+				"h": 60
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 60,
+				"h": 60
+			},
+			"sourceSize": {
+				"w": 60,
+				"h": 60
+			},
+			"anchor": {
+				"x": 0.5,
+				"y": 1
+			}
+		},
+		"laboureur_sheet-38.png": {
+			"frame": {
+				"x": 840,
+				"y": 60,
+				"w": 60,
+				"h": 60
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 60,
+				"h": 60
+			},
+			"sourceSize": {
+				"w": 60,
+				"h": 60
+			},
+			"anchor": {
+				"x": 0.5,
+				"y": 1
+			}
+		},
+		"laboureur_sheet-39.png": {
+			"frame": {
+				"x": 900,
+				"y": 60,
+				"w": 60,
+				"h": 60
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 60,
+				"h": 60
+			},
+			"sourceSize": {
+				"w": 60,
+				"h": 60
+			},
+			"anchor": {
+				"x": 0.5,
+				"y": 1
+			}
+		},
+		"laboureur_sheet-40.png": {
+			"frame": {
+				"x": 960,
+				"y": 60,
+				"w": 60,
+				"h": 60
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 60,
+				"h": 60
+			},
+			"sourceSize": {
+				"w": 60,
+				"h": 60
+			},
+			"anchor": {
+				"x": 0.5,
+				"y": 1
+			}
+		},
+		"laboureur_sheet-41.png": {
+			"frame": {
+				"x": 1020,
+				"y": 60,
+				"w": 60,
+				"h": 60
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 60,
+				"h": 60
+			},
+			"sourceSize": {
+				"w": 60,
+				"h": 60
+			},
+			"anchor": {
+				"x": 0.5,
+				"y": 1
+			}
+		}
+	},
+	"animations": {
+		"down": [
+			"laboureur_sheet-0.png",
+			"laboureur_sheet-1.png",
+			"laboureur_sheet-2.png"
+		],
+		"left": [
+			"laboureur_sheet-3.png",
+			"laboureur_sheet-4.png",
+			"laboureur_sheet-5.png"
+		],
+		"right": [
+			"laboureur_sheet-6.png",
+			"laboureur_sheet-7.png",
+			"laboureur_sheet-8.png"
+		],
+		"up": [
+			"laboureur_sheet-9.png",
+			"laboureur_sheet-10.png",
+			"laboureur_sheet-11.png",
+			"laboureur_sheet-12.png"
+		],
+		"iddle_down": [
+			"laboureur_sheet-13.png",
+			"laboureur_sheet-14.png",
+			"laboureur_sheet-15.png",
+			"laboureur_sheet-16.png",
+			"laboureur_sheet-17.png"
+		],
+		"iddle_right": [
+			"laboureur_sheet-18.png",
+			"laboureur_sheet-19.png",
+			"laboureur_sheet-20.png",
+			"laboureur_sheet-21.png",
+			"laboureur_sheet-22.png"
+		],
+		"iddle_left": [
+			"laboureur_sheet-23.png",
+			"laboureur_sheet-24.png",
+			"laboureur_sheet-25.png",
+			"laboureur_sheet-26.png",
+			"laboureur_sheet-27.png"
+		],
+		"action": [
+			"laboureur_sheet-28.png",
+			"laboureur_sheet-29.png",
+			"laboureur_sheet-30.png",
+			"laboureur_sheet-31.png",
+			"laboureur_sheet-32.png",
+			"laboureur_sheet-33.png",
+			"laboureur_sheet-34.png",
+			"laboureur_sheet-35.png",
+			"laboureur_sheet-36.png",
+			"laboureur_sheet-37.png",
+			"laboureur_sheet-38.png",
+			"laboureur_sheet-39.png",
+			"laboureur_sheet-40.png",
+			"laboureur_sheet-41.png"
+		]
+	},
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"image": "laboureur.png",
+		"format": "RGBA8888",
+		"size": {
+			"w": 1140,
+			"h": 120
+		},
+		"scale": "1",
+		"smartupdate": "$TexturePacker:SmartUpdate:3c1ac2114fdcba6e5a2c51dcf0d81942:45fe69d738c55874f785a23ba47980bd:a4f3e92a59cd1ae9051b1aa212f65f33$"
+	}
+}

@@ -1,0 +1,29 @@
+IDLE:
+Without fertilizer
+Front: 1-4
+Back: 5-8
+Right 9-12
+Left 13-16 (edited)
+
+[3:11 PM]
+With Fertilizer
+Front 17 - 20
+Back 21-24
+Right 25 -28
+Left 29-32
+[3:12 PM]
+WALK:
+without fertilizer
+Front 33-35
+Back 36-38
+Right 39 -41
+Left 42 - 44 (edited)
+[3:14 PM]
+With Fertilizer
+Front 45-47
+Back 48-50
+Right 51-53
+Left 54-56
+[3:14 PM]
+The Action !
+57-78

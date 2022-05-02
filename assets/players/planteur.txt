@@ -1,0 +1,1 @@
+idle/walk avec la baie gauche: 32-25 et idle/walk sans la baie gauche: 36-39

@@ -1,0 +1,10 @@
+WALK/ IDLE avec baie :
+Front 1-4
+Side 5-8
+Back 9-12
+ACTION : 
+25-31
+WALK/IDLE sans baie :
+Front 21-24
+Side 17-20
+Back 13-16

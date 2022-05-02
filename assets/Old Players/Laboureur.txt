@@ -1,0 +1,13 @@
+WALK:
+Front 1-3
+Left 4-6
+Right 7_9
+Back 10-12
+
+IDLE:
+Front 13-18
+Right 19-23
+Left 24-28
+
+ACTION
+29-42

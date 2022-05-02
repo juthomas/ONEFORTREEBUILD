@@ -1,0 +1,9 @@
+avec les 4 nouvelles anim vers la gauche
+[9:58 AM]
+idle rempli d'eau gauche: 59-62
+[9:58 AM]
+idle vide gauche: 63-66
+[9:59 AM]
+walk rempli d'eau gauche: 67-70
+[9:59 AM]
+walk vide gauche: 71-74

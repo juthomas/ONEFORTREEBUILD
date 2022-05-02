@@ -1,0 +1,18 @@
+WALK rempli d’eau :
+Front 35-38
+Side 39-42
+Back 51-54
+IDLE rempli d’eau :
+Front 1-4
+Side 5-8
+Back 9-12
+ACTION : 
+13-22
+WALK VIDE:
+Front 47-50
+Side 43-46
+Back 55-58
+IDLE VIDE:
+Front 23_26
+Side 27-30
+Back 31-34
